@@ -3,7 +3,7 @@
 
 # Project deployed at
 
-<a href="https://mithesh14.github.io/QR-code-generator/">Speed Test</a>
+<a href=" https://mithesh14.github.io/Internet-speed-test/">Speed Test</a>
 
 # Screenshots 
 
