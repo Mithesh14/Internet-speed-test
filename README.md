@@ -1,5 +1,5 @@
 # Internet Speed Test
-✏️ A simple Internet speed test website developed using html, css and javascript ❗
+✏️ Internet speed test website developed using html, css and javascript ❗
 
 # Project deployed at
 
