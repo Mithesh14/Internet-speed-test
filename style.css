@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+body
+{
+    background:#141526;
+}
+
+.card
+{
+    background-color: #141526;
+    width:440px;
+    padding:20px;
+    position: absolute;
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 1rem;
+    opacity: 95%;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+.result 
+{
+    font-size: 3em;
+    line-height: 1.3em;
+    text-align: center;
+    color: white;
+    font-family: myFirstFont;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.message
+{
+    text-align: center;
+    font-weight: bold;
+    color: #56c0bd;
+    font-size: 4.5vh;
+    line-height: 6vh;
+    min-height: 6vh;
+    font-family: 'Abel', sans-serif;
+    margin-top: 1.5rem;
+}
+
+.mithesh
+{
+    float: right;
+    margin-bottom: 0.1rem;
+    margin-right: 0.1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: white;
+    font-family: 'Abel', sans-serif;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(font/ticking-timebomb-bb.regular.ttf);
+}
