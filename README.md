@@ -1,6 +1,10 @@
 # Internet Speed Test
 ✏️ A simple Internet speed test website developed using html, css and javascript ❗
- 
+
+# Project deployed at
+
+<a href="https://mithesh14.github.io/QR-code-generator/">Speed Test</a>
+
 # Screenshots 
 
 ➡️ The internet speed test website is made in such a way that it directly calculates the internet speed once you open the website ❗
