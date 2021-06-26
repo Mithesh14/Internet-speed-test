@@ -7,7 +7,7 @@
 
 # Screenshots 
 
-### ➡️ The internet speed test website is made in such a way that it directly calculates the internet speed once you open the website ❗
+➡️ The internet speed test website is made in such a way that it directly calculates the internet speed once you open the website ❗
 
  ![screenshots](https://github.com/Mithesh14/Internet-speed-test/blob/main/media/image1.jpg)
  
